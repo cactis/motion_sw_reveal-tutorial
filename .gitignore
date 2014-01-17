@@ -20,5 +20,4 @@ nbproject
 vendor/bundle
 vendor/Pods
 
-
-./files/Rakefile
+Rakefile
