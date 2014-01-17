@@ -7,5 +7,9 @@ gem "ProMotion", "~> 1.1.1"
 # gem "sugarcube" # monkeypatch all the things
 # gem "rmq" # jQuery for RubyMotion
 
+gem 'awesome_print_motion'
+
 gem 'motion_sw_reveal'
 gem 'motion-fontawesome', :git => 'https://github.com/tnakamura/fontawesome.git', :branch => 'fa_4.0'
+
+

@@ -3,6 +3,6 @@ class AppDelegate < PM::Delegate
 
   def on_load(app, options)
     # open HomeScreen.new(nav_bar: true)
-    open_reveal_screen StatesScreen.new, HomeScreen.new(nav_bar: true)
+    open_reveal_screen RevealMenuScreen.new, HomeScreen.new(nav_bar: true)
   end
 end
