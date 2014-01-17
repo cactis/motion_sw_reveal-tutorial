@@ -1,3 +1,0 @@
-# Cocoapods::Try Changelog
-
-## Master
